@@ -30,3 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coden-arfat&" alt="coden-arfat" /></p>
 
+![Yasin Arfat's Graph](https://activity-graph.herokuapp.com/graph?username=coden-arfat&theme=react-dark)

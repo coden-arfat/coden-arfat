@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arfat</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2365D423&duration=4000&vCenter=true&width=433&height=98&lines=A+passionate+developer+from+Bangladesh;Working+on+Web+Development+And+Ai">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2365D423&duration=5000&vCenter=true&width=483&height=98&lines=A+passionate+developer+from+Bangladesh;Working+on+Web+Development+And+Ai">
 </p>
 
 

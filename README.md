@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arfat</h1>
-<h3 align="center">A passionate developer from Bangladesh</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+passionate+developer+from+Bangladesh&font=Fira%20Code&center=true&width=480&height=50">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coden-arfat&label=Profile%20views&color=0e75b6&style=flat" alt="coden-arfat" /> </p>
 

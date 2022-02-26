@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coden-arfat&label=Profile%20views&color=0e75b6&style=flat" alt="coden-arfat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coden-arfat" alt="coden-arfat" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=coden-arfat" alt="coden-arfat" /></p>
 
 <p align="left"> <a href="https://twitter.com/yn_arfat" target="blank"><img src="https://img.shields.io/twitter/follow/yn_arfat?logo=twitter&style=for-the-badge" alt="yn_arfat" /></a> </p>
 
